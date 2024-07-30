@@ -1,0 +1,31 @@
+.card {
+    flex: 3;
+    padding: 20px;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+}
+
+.card h3 {
+    margin: 0 0 10px;
+}
+
+.card .value {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card .change {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.card .positive {
+    color: green;
+}
+
+.card .negative {
+    color: red;
+}

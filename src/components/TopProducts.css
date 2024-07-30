@@ -1,0 +1,30 @@
+.top-products {
+    width: 300px;
+    background: #fff;
+    padding: 20px;
+    height: 450px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(83, 7, 7, 0.1);
+    cursor: pointer;
+}
+
+.top-products h3 {
+    margin: 0 0 20px;
+}
+
+.top-products ul {
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+}
+
+.top-products ul li {
+    background: whitesmoke;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.top-products ul li:hover {
+    background-color: gray;
+}
